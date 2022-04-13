@@ -31,7 +31,7 @@ Antes de começar 🏁, você precisa ter o [Python](https://www.python.org/down
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/navegantes/freelaway
+$ git clone https://github.com/DiegoBolonik/Freelaway
 # Entre na pasta
 $ cd freelaway
 ```
