@@ -5,9 +5,9 @@
 <p align="center">
   <img alt="Login" src="public/login.png" width=250>
   <img alt="cadastrar" src="public/cadastrar.png" width=250>
-  <img alt="Encontrar job" src="public/encontrar_jobs.png" width=250>
   <img alt="Job" src="public/job.png" width=250>
   <img alt="Perfil" src="public/perfil.png" width=250>
+   <img alt="Encontrar job" src="public/encontrar_jobs.png" width=250>
 </p>
 
 ## 🎯 Sobre
