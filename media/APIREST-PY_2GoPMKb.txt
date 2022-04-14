@@ -1,0 +1,10 @@
+API REST PYTHON
+
+mkdir library
+cd library
+python3 -m venv venv
+
+source venv/bin/activate
+mkdir src
+code . -> criação main.py
+pip install flask
